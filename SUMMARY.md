@@ -1,4 +1,5 @@
 # Table of contents
 
 * [Библиотека CWD GLOBAL](README.md)
-* [Боты Telegram](boty-telegram.md)
+* [🔗 Официальные ссылки](oficialnye-ssylki.md)
+* [🤖 Боты Telegram](boty-telegram.md)
