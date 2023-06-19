@@ -24,7 +24,7 @@
 
 Проверим баланс аккаунта: `list_account_balances ВАШ_АККАУНТ`
 
-<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 Теперь нам нужно обновить наш аккаунт до сервисного, это процедура платная и комиссия составляет 1000 CWD:\
 `upgrade_account ВАШ_АККАУНТ true`\
@@ -36,17 +36,17 @@
 `create_witness ВАШ_АККАУНТ "ОПИСАНИЕ_ВИТНЕСА" true`\
 Где в ОПИСАНИЕ\_ВИТНЕСА можно указать ссылку на свой профиль или написать короткое текстовое сообщение, чтобы люди могли понять, за кого голосуют. Эта операция также платная, комиссия составляет 5000 CWD
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 Поздравляем! Можно начинать производить блоки и получать за это вознаграждение! Но для начала за ваш новый витнес необходимо проголосовать.
 
 Новый витнес появится в списке витнесов на вкладке "Заверители" пункта меню "Голосование в системе Crowdwiz". Вам нужно переключить свой голос в его поддержку и убедить как можно большее количество людей проголосовать за него. Голосование происходит с помощью вашего баланса в CWD - чем он больше тем, больше голосов засчитывается. Для того чтобы проголосовать, нажмите "Выбрать" в строке с вашим витнесом, и после этого нажмите кнопку "Сохранить".
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 Эта операция также платная и стоит чуть больше 2 CWD. Подсчёт голосов происходит каждые 10 минут. Теперь нужно получить ключи нашего нового витнеса для подписания блоков. Для этого выполните команду: `get_witness ВАШ_АККАУНТ`
 
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 нас интересует строка **signing\_key** - запомним её значение. Это открытый ключ для подписания блоков.
 
