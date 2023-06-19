@@ -16,8 +16,8 @@ description: Подборка справочной информации
 [boty-telegram.md](boty-telegram.md)
 {% endcontent-ref %}
 
-{% content-ref url="komissii-na-platforme-cwd.global.md" %}
-[komissii-na-platforme-cwd.global.md](komissii-na-platforme-cwd.global.md)
+{% content-ref url="komissii-na-platforme-cwd.global/" %}
+[komissii-na-platforme-cwd.global](komissii-na-platforme-cwd.global/)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
