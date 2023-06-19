@@ -73,7 +73,7 @@ description: Сборка это такой процесс, когда из ис
 Теперь мы в скрине, который визуально ничем не отличается от терминала, в котором мы работали до сих пор. Теперь нам нужно получить исходные файлы проекта с github. Для этого нужно выполнить команду:\
 `git clone https://github.com/crowdwiz-biz/crowdwiz-core.git`
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 у нас появился каталог с исходными файлами, теперь нужно в него войти:\
 `cd crowdwiz-core`\

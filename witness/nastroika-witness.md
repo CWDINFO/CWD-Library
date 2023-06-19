@@ -14,4 +14,4 @@
 
 Вы узнаете о том, что синхронизация завершена, когда увидите, что блоки перестали приходить пачками по 10 000, и начали приходить по одному, а также вы увидите транзакции сети в режиме онлайн.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
