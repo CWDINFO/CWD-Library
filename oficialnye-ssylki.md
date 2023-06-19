@@ -2,21 +2,21 @@
 
 ## Адрес
 
-Основной адрес: https://cwd.global
+Основной адрес: [https://cwd.global](https://cwd.global)
 
-Зеркало: https://backup.cwd.global
+Зеркало: [https://backup.cwd.global](https://backup.cwd.global)
 
 ## Официальные социальные сети
 
-Канал Telegram: https://t.me/cwdglobal
+Канал Telegram: [https://t.me/cwdglobal](https://t.me/cwdglobal)
 
 Twitter: [https://twitter.com/cwd\_global\_dao](https://twitter.com/cwd\_global\_dao)
 
-️Facebook: https://facebook.com/cwd.global.official
+️Facebook: [https://facebook.com/cwd.global.official](https://facebook.com/cwd.global.official)
 
-️Instagram: https://instagram.com/cwd.global.official
+️Instagram: [https://instagram.com/cwd.global.official](https://instagram.com/cwd.global.official)
 
-️Medium: https://cwd-global.medium.com
+️Medium: [https://cwd-global.medium.com](https://cwd-global.medium.com)
 
 ## Агрегаторы
 
