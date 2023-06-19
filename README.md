@@ -4,6 +4,8 @@ description: Подборка информации о CWD.GLOBAL
 
 # Библиотека CWD GLOBAL
 
+Подготовлено каналом [CWDINFO](https://cwdinfo.t.me)
+
 {% content-ref url="oficialnye-ssylki.md" %}
 [oficialnye-ssylki.md](oficialnye-ssylki.md)
 {% endcontent-ref %}
@@ -17,5 +19,5 @@ description: Подборка информации о CWD.GLOBAL
 {% endcontent-ref %}
 
 {% hint style="info" %}
-Подготовлено каналом [CWDINFO](https://cwdinfo.t.me)
+
 {% endhint %}
