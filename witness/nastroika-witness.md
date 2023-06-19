@@ -8,10 +8,10 @@
 `programs/witness_node/witness_node`\
 После запуска вы увидите сервисную информацию, и если всё прошло хорошо, то начнётся синхронизация. Вы увидите, что сервер получает из блокчейна блоки, пачками по 10 000 штук:
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 синхронизация также занимает достаточно длительное время, на момент написания инструкции - примерно 20-30 минут для более 7 миллионов блоков.
 
 Вы узнаете о том, что синхронизация завершена, когда увидите, что блоки перестали приходить пачками по 10 000, и начали приходить по одному, а также вы увидите транзакции сети в режиме онлайн.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>

@@ -22,7 +22,7 @@ _В отличии от seed или api узла, Block-production node може
 
 После регистрации и активации карты или аккаунта PayPal необходимо нажать зелёную кнопку Create (в верхнем правом углу), и в выпадающем списке выбрать Droplets.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Затем во вкладке Distributions нужно выбрать Ubuntu 18.04.3 (LTS) x64, на вкладке Choose a plan выбрать Standart и выбрать конфигурацию: $40/mo (8GB/4CPU)
 
@@ -30,11 +30,11 @@ _В отличии от seed или api узла, Block-production node може
 
 Далее в разделе Choose a datacenter region выбираем физический дата-центр, где будет работать наш сервер, рекомендуем выбирать Американские или Европейские дата-центры.
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 Раздел VPC Network оставляем No VPC Network и Select Additional options также оставляем пустым.
 
-<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 Следующий важный раздел - Authentication здесь мы должны добавить наш публичный ssh-ключ, сгенерированный на этапе Настройка SSH. Для этого нужно нажать кнопку New SSH Key.
 
@@ -42,11 +42,11 @@ _В отличии от seed или api узла, Block-production node може
 
 В появившемся окне вставляем наш публичный ключ и придумываем для него имя.
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 Затем выбираем его из списка:
 
-<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 После этого нужно указать имя виртуального сервера, а остальные параметры оставить по умолчанию и нажать кнопку "Create Droplet"
 
@@ -58,7 +58,7 @@ _В отличии от seed или api узла, Block-production node може
 
 Когда создание сервера будет завершено, то вы увидите его IP адрес:
 
-<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 В нашем примере это 128.199.63.75
 
@@ -66,7 +66,7 @@ _В отличии от seed или api узла, Block-production node може
 
 Если всё ок, то вы увидите примерно такое сообщение:
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 Здесь нужно ввести с клавиатуры yes и нажать enter После этого вы увидите перед собой строку терминала вашего будущего витнеса. `root@crowdwiz-witness:~ #` Что в ней писать мы разберёмся далее. Чтобы завершить сессию, вы можете написать в терминале команду exit или просто закрыть терминал.
 
@@ -106,7 +106,7 @@ _В отличии от seed или api узла, Block-production node може
 
 Ниже нужно заполнить раздел Вычислительные ресурсы: Указываем процессор Intel Cascade Lake, 2 потока (vCPU), 100% доля использования, 8 GB оперативной памяти. Затем указываем зарезервированный на предыдущем шаге IP-адрес (Публичный адрес - Список), пишем системный логин ( например, witness), затем указываем свой публичный ssh-ключ, ставим галочку Разрешить доступ к серийной консоли и нажимаем кнопку Создать ВМ
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 После этого вы увидите в списке виртуальных машин новую строчку с виртуальной машиной в статусе Provisioning
 
@@ -118,8 +118,8 @@ _В отличии от seed или api узла, Block-production node може
 
 Теперь можно подключиться к нашему удалённому серверу по SSH, для этого в MacOs нужно зайти в LaunchPad, зайти в папку Другие и запустить оттуда программу Терминал, в Linux просто запустите любимый терминал, а затем (заменив IP-адрес из примера 84.201.129.123 на свой) выполните команду : `ssh witness@84.201.129.123` Если всё ок, то вы увидите примерно такое сообщение:
 
-<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
 Здесь нужно ввести с клавиатуры yes и нажать enter После этого вы увидите перед собой строку терминала вашего будущего витнеса.
 
-<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>

@@ -3,6 +3,7 @@
 * [Библиотека CWD GLOBAL](README.md)
 * [🔗 Официальные ссылки](oficialnye-ssylki.md)
 * [🤖 Боты Telegram](boty-telegram.md)
+* [🪙 Комиссии на платформе CWD.GLOBAL](komissii-na-platforme-cwd.global.md)
 
 ## ⛏ Настройка витнесса <a href="#witness" id="witness"></a>
 

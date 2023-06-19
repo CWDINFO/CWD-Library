@@ -16,6 +16,10 @@ description: Подборка информации о CWD.GLOBAL
 [boty-telegram.md](boty-telegram.md)
 {% endcontent-ref %}
 
+{% content-ref url="komissii-na-platforme-cwd.global.md" %}
+[komissii-na-platforme-cwd.global.md](komissii-na-platforme-cwd.global.md)
+{% endcontent-ref %}
+
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
