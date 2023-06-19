@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Библиотека CWD GLOBAL](README.md)
+* [📚 Библиотека CWD GLOBAL](README.md)
 * [🔗 Официальные ссылки](oficialnye-ssylki.md)
 * [🤖 Боты Telegram](boty-telegram.md)
 * [🪙 Комиссии на платформе CWD.GLOBAL](komissii-na-platforme-cwd.global/README.md)
