@@ -1,5 +1,5 @@
 ---
-description: Подборка информации о CWD.GLOBAL
+description: Подборка справочной информации
 ---
 
 # Библиотека CWD GLOBAL
