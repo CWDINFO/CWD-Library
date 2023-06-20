@@ -4,6 +4,7 @@
 * [🔗 Официальные ссылки](oficialnye-ssylki.md)
 * [🤖 Боты Telegram](boty-telegram.md)
 * [🪙 Комиссии на платформе CWD.GLOBAL](komissii-na-platforme-cwd.global/README.md)
+  * [15.05.2023](komissii-na-platforme-cwd.global/15.05.2023.md)
   * [19.06.2023](komissii-na-platforme-cwd.global/19.06.2023.md)
 
 ## ⛏ Настройка витнесса <a href="#witness" id="witness"></a>
