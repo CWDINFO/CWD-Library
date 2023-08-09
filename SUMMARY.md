@@ -6,6 +6,7 @@
 * [🪙 Комиссии на платформе CWD.GLOBAL](komissii-na-platforme-cwd.global/README.md)
   * [15.05.2023](komissii-na-platforme-cwd.global/15.05.2023.md)
   * [19.06.2023](komissii-na-platforme-cwd.global/19.06.2023.md)
+  * [11.08.2023](komissii-na-platforme-cwd.global/11.08.2023.md)
 
 ## ⛏ Настройка витнесса <a href="#witness" id="witness"></a>
 
