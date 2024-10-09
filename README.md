@@ -7,6 +7,8 @@ layout: landing
 
 {% hint style="info" %}
 Подготовлено каналом [CWDINFO](https://cwdinfo.t.me)
+
+После прохождения каптчи в чате канала можно воспользоваться справочным меню бота, написав команду `#справка`&#x20;
 {% endhint %}
 
 {% content-ref url="oficialnye-ssylki.md" %}
