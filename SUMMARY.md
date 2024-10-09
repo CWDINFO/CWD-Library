@@ -9,8 +9,9 @@
   * [11.08.2023](komissii-na-platforme-cwd.global/11.08.2023.md)
   * [28.12.2023](komissii-na-platforme-cwd.global/28.12.2023.md)
   * [27.01.2024](komissii-na-platforme-cwd.global/27.01.2024.md)
+  * [30.08.2024](komissii-na-platforme-cwd.global/30.08.2024.md)
 
-## ⛏ Настройка витнесса <a href="#witness" id="witness"></a>
+## ⛏️ Настройка витнесса <a href="#witness" id="witness"></a>
 
 * [Что такое Witness в инфраструктуре платформы CrowdWiz](witness/chto-takoe-witness-v-infrastrukture-platformy-crowdwiz.md)
 * [Настройка окружения](witness/nastroika-okruzheniya.md)
